@@ -1,0 +1,8 @@
+INSERT INTO `pmw_infoclass` VALUES('22','1','0','0,','1','加入奥昇','','','','','','','','22','true');
+INSERT INTO `pmw_infoclass` VALUES('20','1','0','0,','1','详情页','','','','','','','','20','true');
+INSERT INTO `pmw_infoclass` VALUES('19','1','0','0,','2','案例展示','','','','','','','','19','true');
+INSERT INTO `pmw_infoclass` VALUES('18','1','0','0,','1','新闻资讯','','','','','','','','18','true');
+INSERT INTO `pmw_infoclass` VALUES('21','1','0','0,','1','关于我们','','','','','','','关于我们/About Us More','21','true');
+INSERT INTO `pmw_infoclass` VALUES('17','1','0','0,','1','解决方案','','','','','','','','17','true');
+INSERT INTO `pmw_infoclass` VALUES('16','1','0','0,','1','新闻咨询','news.php','','','','','','新闻资讯 / NEWS More','16','true');
+INSERT INTO `pmw_infoclass` VALUES('14','1','0','0,','1','解决方案','soution.php','','','','','','解决方案 / Solutions More','14','true');

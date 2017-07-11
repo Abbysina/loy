@@ -1,0 +1,6 @@
+INSERT INTO `pmw_infoclass` VALUES('1','1','0','0,','1','首页','','','','','','','','1','false');
+INSERT INTO `pmw_infoclass` VALUES('5','1','0','0,','2','产品展示','product.php','','','','','','','5','true');
+INSERT INTO `pmw_infoclass` VALUES('6','1','5','0,5,','2','笔记本电脑','product.php?cid=6','','','','','','','6','true');
+INSERT INTO `pmw_infoclass` VALUES('7','1','5','0,5,','2','智能手机','product.php?cid=7','','','','','','','7','true');
+INSERT INTO `pmw_infoclass` VALUES('18','1','1','0,1,','2','关于我们','','','','','','','','16','true');
+INSERT INTO `pmw_infoclass` VALUES('15','1','1','0,1,','2','解决方案','soution.php','','','','','','','15','true');

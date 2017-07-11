@@ -1,0 +1,131 @@
+
+
+.header-log
+{
+    width: 1500px;
+}
+.header-log img
+{
+    margin: 0 auto;
+}
+
+.content
+{
+    width: 1500px;
+    height: 700px;
+}
+
+.wamp
+{
+    width: 1500px;
+    height: 300px;
+}
+.wamp-a h1
+{
+    margin-top:-35px;
+
+    text-align: center;
+}
+.wamp-b
+{
+    width: 100%;
+    margin-top:35px;
+
+    border: 1px solid #c9c5c5;
+}
+.wamp-c p
+{
+    margin-top: 2px;
+
+    text-align: center;
+
+    color: #8e8c8c;
+}
+.wamp-d
+{
+    width: 100%;
+    margin-top: 10px;
+
+    border: 1px solid #c9c5c5;
+}
+.wamp-e
+{
+    width: 1500px;
+    height: 110px;
+    margin-top: 20px;
+
+    border: 1px solid #f6dbc2;
+    background: #fff9f9;
+}
+.wamp-e p
+{
+    line-height:32px;
+
+    margin-top: 20px;
+
+    color: #8e8c8c;
+}
+.wamp-f p
+{
+    line-height: 50px;
+
+    margin-top: -22px;
+
+    color: #8e8c8c;
+}
+.num
+{
+    width: 1500px;
+    height: 420px;
+    margin-top:-12px;
+
+}
+.num-a p
+{
+    font-size: 23px;
+
+    float: right;
+    margin-top: -21px;
+    color: #868282;
+}
+.num-b p
+{
+    margin-top: 39px;
+    color: #868282;
+}
+.num-b a
+{
+    color: #1e1e1e;
+}
+.num-c
+{
+    width:64px;
+    float: left;
+}
+.num-c input
+{
+    width: 64px;
+    margin-top: 37px;
+    color:#868282;
+}
+.num-d textarea
+{
+    font-size:18px;
+    margin-top:39px;
+    padding-top:10px;
+    padding-left:10px;
+    color: #868282;
+}
+.num-d
+{
+    border-bottom:1px solid #d2cfcf;
+}
+.num-d span
+{
+    margin-top:15px;
+    color: #868282;
+}
+.num-d input
+{
+    float:right;
+}

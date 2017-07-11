@@ -1,0 +1,83 @@
+
+/*轮播图*/
+time{
+    float: right;
+}
+.carousel-indicators .active
+{
+    background-color: #f96908;
+}
+.carousel-control img{
+    padding-top:150px;
+}
+.title
+{
+   text-align: center;
+}
+.title-a {
+    margin-left:22px;
+
+}
+.content-c
+{
+    padding-top: 15px;
+}
+.pictur img
+{
+    padding-top: 20px;
+}
+.pictur .title-a {
+    text-align: center;
+   }
+
+.news
+{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.new-c
+{
+    float: left;
+
+    width: 600px;
+}
+.new-c img
+{
+    width: 600px;
+}
+
+.new-c p
+{
+    font-size: 12px;
+    line-height: 32px;
+
+    width: 600px;
+
+    text-align: center;
+
+    color: #525050;
+}
+.new-d
+{
+    float: left;
+
+    width: 520px;
+    margin-left: 75px;
+}
+.new-d ul li
+{
+    line-height: 30px;
+
+    margin-top: 18px;
+
+    list-style: none;
+
+    border-bottom: 1px dashed #514c4c;
+}
+.new-d a
+{
+    text-decoration: none;
+
+    color: #050505;
+}
